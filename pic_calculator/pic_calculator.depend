@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1557568973 source:c:\users\micronet\desktop\pic_calculator\main.cpp
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+
